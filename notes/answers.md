@@ -1,0 +1,1 @@
+The /bin directory holds essential system binaries required for booting and basic system repair.The /usr/bin directory stores standard user commands and applications installed by your system package manager. meanwhile the /usr/local/bin directory is reserved for manually installed or locally compiled software so that system updates will not overwrite them

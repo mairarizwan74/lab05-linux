@@ -1,0 +1,23 @@
+total 92
+drwxr-x--- 16 mairarizwan74 mairarizwan74 4096 Oct 16 04:28 .
+drwxr-xr-x  3 root          root          4096 Sep 13 06:11 ..
+-rw-------  1 mairarizwan74 mairarizwan74 5150 Oct 16 03:51 .bash_history
+-rw-r--r--  1 mairarizwan74 mairarizwan74  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 mairarizwan74 mairarizwan74 3771 Feb 13  2026 .bashrc
+drwx------  2 mairarizwan74 mairarizwan74 4096 Sep 13 06:32 .cache
+drwx------  3 mairarizwan74 mairarizwan74 4096 Oct 10 15:48 .config
+-rw-rw-r--  1 mairarizwan74 mairarizwan74  189 Oct 16 04:13 .gitconfig
+-rw-------  1 mairarizwan74 mairarizwan74   20 Oct 10 10:11 .lesshst
+drwx------  3 mairarizwan74 mairarizwan74 4096 Oct  9 20:47 .local
+-rw-r--r--  1 mairarizwan74 mairarizwan74  807 Feb 13  2026 .profile
+drwx------  2 mairarizwan74 mairarizwan74 4096 Oct 16 03:51 .ssh
+drwxrwxr-x  2 mairarizwan74 mairarizwan74 4096 Oct 10 15:48 .vscode
+drwxrwxr-x  3 mairarizwan74 mairarizwan74 4096 Oct 10 14:35 Assignment01
+drwxrwxr-x  3 mairarizwan74 mairarizwan74 4096 Oct  9 19:54 Gitea
+drwxrwxr-x  2 mairarizwan74 mairarizwan74 4096 Oct 16 04:21 Rizwan
+drwxrwxr-x  2 mairarizwan74 mairarizwan74 4096 Oct 16 04:20 evidence
+drwxrwxr-x  5 mairarizwan74 mairarizwan74 4096 Oct 16 04:28 lab05-linux
+drwxrwxr-x  2 mairarizwan74 mairarizwan74 4096 Sep 18 18:41 mylab
+drwxrwxr-x  2 mairarizwan74 mairarizwan74 4096 Oct 16 04:20 notes
+drwxrwxr-x  2 mairarizwan74 mairarizwan74 4096 Oct 10 15:34 portfolio
+drwx------  3 mairarizwan74 mairarizwan74 4096 Oct 10 15:48 snap
